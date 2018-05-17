@@ -1,15 +1,3 @@
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==================================================================
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
-www.smartlab.ws
-==================================================================
-
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
@@ -72,72 +60,139 @@ Work done:
 Variables Used: 
 ======
 tBodyAcc Mean in X-Axis
+
 tBodyAcc Mean in Y-Axis
+
 tBodyAcc Mean in Z-Axis
+
 tBodyAcc Stdev in X-Axis
+
 tBodyAcc Stdev in Y-Axis
+
 tBodyAcc Stdev in Z-Axis
+
 tGravityAcc Mean in X-Axis
+
 tGravityAcc Mean in Y-Axis
+
 tGravityAcc Mean in Z-Axis
+
 tGravityAcc Stdev in X-Axis
+
 tGravityAcc Stdev in Y-Axis
+
 tGravityAcc Stdev in Z-Axis
+
 tBodyAccJerk Mean in X-Axis
+
 tBodyAccJerk Mean in Y-Axis
+
 tBodyAccJerk Mean in Z-Axis
+
 tBodyAccJerk Stdev in X-Axis
+
 tBodyAccJerk Stdev in Y-Axis
+
 tBodyAccJerk Stdev in Z-Axis
+
 tBodyGyro Mean in X-Axis
+
 tBodyGyro Mean in Y-Axis
+
 tBodyGyro Mean in Z-Axis
+
 tBodyGyro Stdev in X-Axis
+
 tBodyGyro Stdev in Y-Axis
+
 tBodyGyro Stdev in Z-Axis
+
 tBodyGyroJerk Mean in X-Axis
+
 tBodyGyroJerk Mean in Y-Axis
+
 tBodyGyroJerk Mean in Z-Axis
+
 tBodyGyroJerk Stdev in X-Axis
+
 tBodyGyroJerk Stdev in Y-Axis
+
 tBodyGyroJerk Stdev in Z-Axis
+
 tBodyAccMag Mean  
+
 tBodyAccMag Stdev  
+
 tGravityAccMag Mean  
+
 tGravityAccMag Stdev  
+
 tBodyAccJerkMag Mean  
+
 tBodyAccJerkMag Stdev  
+
 tBodyGyroMag Mean  
+
 tBodyGyroMag Stdev  
+
 tBodyGyroJerkMag Mean  
+
 tBodyGyroJerkMag Stdev  
+
 fBodyAcc Mean in X-Axis
+
 fBodyAcc Mean in Y-Axis
+
 fBodyAcc Mean in Z-Axis
+
 fBodyAcc Stdev in X-Axis
+
 fBodyAcc Stdev in Y-Axis
+
 fBodyAcc Stdev in Z-Axis
+
 fBodyAccJerk Mean in X-Axis
+
 fBodyAccJerk Mean in Y-Axis
+
 fBodyAccJerk Mean in Z-Axis
+
 fBodyAccJerk Stdev in X-Axis
+
 fBodyAccJerk Stdev in Y-Axis
+
 fBodyAccJerk Stdev in Z-Axis
+
 fBodyGyro Mean in X-Axis
+
 fBodyGyro Mean in Y-Axis
+
 fBodyGyro Mean in Z-Axis
+
 fBodyGyro Stdev in X-Axis
+
 fBodyGyro Stdev in Y-Axis
+
 fBodyGyro Stdev in Z-Axis
+
 fBodyAccMag Mean  
+
 fBodyAccMag Stdev  
+
 fBodyBodyAccJerkMag Mean  
+
 fBodyBodyAccJerkMag Stdev  
+
 fBodyBodyGyroMag Mean  
+
 fBodyBodyGyroMag Stdev  
+
 fBodyBodyGyroJerkMag Mean  
+
 fBodyBodyGyroJerkMag Stdev  
+
 Participant Number
+
 Activities
 
 
