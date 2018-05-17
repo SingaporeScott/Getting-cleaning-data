@@ -1,0 +1,68 @@
+tBodyAcc Mean in X-Axis
+tBodyAcc Mean in Y-Axis
+tBodyAcc Mean in Z-Axis
+tBodyAcc Stdev in X-Axis
+tBodyAcc Stdev in Y-Axis
+tBodyAcc Stdev in Z-Axis
+tGravityAcc Mean in X-Axis
+tGravityAcc Mean in Y-Axis
+tGravityAcc Mean in Z-Axis
+tGravityAcc Stdev in X-Axis
+tGravityAcc Stdev in Y-Axis
+tGravityAcc Stdev in Z-Axis
+tBodyAccJerk Mean in X-Axis
+tBodyAccJerk Mean in Y-Axis
+tBodyAccJerk Mean in Z-Axis
+tBodyAccJerk Stdev in X-Axis
+tBodyAccJerk Stdev in Y-Axis
+tBodyAccJerk Stdev in Z-Axis
+tBodyGyro Mean in X-Axis
+tBodyGyro Mean in Y-Axis
+tBodyGyro Mean in Z-Axis
+tBodyGyro Stdev in X-Axis
+tBodyGyro Stdev in Y-Axis
+tBodyGyro Stdev in Z-Axis
+tBodyGyroJerk Mean in X-Axis
+tBodyGyroJerk Mean in Y-Axis
+tBodyGyroJerk Mean in Z-Axis
+tBodyGyroJerk Stdev in X-Axis
+tBodyGyroJerk Stdev in Y-Axis
+tBodyGyroJerk Stdev in Z-Axis
+tBodyAccMag Mean  
+tBodyAccMag Stdev  
+tGravityAccMag Mean  
+tGravityAccMag Stdev  
+tBodyAccJerkMag Mean  
+tBodyAccJerkMag Stdev  
+tBodyGyroMag Mean  
+tBodyGyroMag Stdev  
+tBodyGyroJerkMag Mean  
+tBodyGyroJerkMag Stdev  
+fBodyAcc Mean in X-Axis
+fBodyAcc Mean in Y-Axis
+fBodyAcc Mean in Z-Axis
+fBodyAcc Stdev in X-Axis
+fBodyAcc Stdev in Y-Axis
+fBodyAcc Stdev in Z-Axis
+fBodyAccJerk Mean in X-Axis
+fBodyAccJerk Mean in Y-Axis
+fBodyAccJerk Mean in Z-Axis
+fBodyAccJerk Stdev in X-Axis
+fBodyAccJerk Stdev in Y-Axis
+fBodyAccJerk Stdev in Z-Axis
+fBodyGyro Mean in X-Axis
+fBodyGyro Mean in Y-Axis
+fBodyGyro Mean in Z-Axis
+fBodyGyro Stdev in X-Axis
+fBodyGyro Stdev in Y-Axis
+fBodyGyro Stdev in Z-Axis
+fBodyAccMag Mean  
+fBodyAccMag Stdev  
+fBodyBodyAccJerkMag Mean  
+fBodyBodyAccJerkMag Stdev  
+fBodyBodyGyroMag Mean  
+fBodyBodyGyroMag Stdev  
+fBodyBodyGyroJerkMag Mean  
+fBodyBodyGyroJerkMag Stdev  
+Participant Number
+Activities
