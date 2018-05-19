@@ -50,7 +50,6 @@ The following files are available for the train and test data. Their description
 2) Extracts only the measurements on the mean and standard deviation for each measurement.
 3) Uses descriptive activity names to name the activities in the data set
 4) Appropriately labels the data set with descriptive variable names. This is done with new_vars.txt file i provided
-5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each    activity. I did not find a point in aggregating over each subject, therefore I simply aggregated over activity
-
+5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each    activity and participant.
 
 
